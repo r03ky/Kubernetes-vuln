@@ -33,7 +33,7 @@
 
     <properties>
         <logback.version>1.2.7</logback.version>
-        <cassandra.version>5.0.0</cassandra.version>
+        <cassandra.version>5.0.3</cassandra.version>
     </properties>
 
     <dependencies>
